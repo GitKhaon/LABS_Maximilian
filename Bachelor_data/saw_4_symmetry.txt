@@ -1,0 +1,105 @@
+Test 1
+N: 35, Time: 0.28 seconds, Nodes: 27984
+N: 36, Time: 1.67 seconds, Nodes: 149705
+N: 37, Time: 0.75 seconds, Nodes: 62499
+N: 38, Time: 0.56 seconds, Nodes: 46464
+N: 39, Time: 0.39 seconds, Nodes: 29904
+N: 40, Time: 7.28 seconds, Nodes: 536877
+N: 41, Time: 5.05 seconds, Nodes: 361834
+N: 42, Time: 0.58 seconds, Nodes: 41069
+N: 43, Time: 3.58 seconds, Nodes: 226060
+N: 44, Time: 25.92 seconds, Nodes: 1605956
+N: 45, Time: 6.59 seconds, Nodes: 399720
+N: 46, Time: 4.38 seconds, Nodes: 251763
+N: 47, Time: 3.55 seconds, Nodes: 200261
+N: 48, Time: 1.05 seconds, Nodes: 57105
+N: 49, Time: 47.04 seconds, Nodes: 2367438
+N: 50, Time: 6.56 seconds, Nodes: 325767
+N: 51, Time: 54.17 seconds, Nodes: 2459666
+N: 52, Time: 24.88 seconds, Nodes: 1108720
+N: 53, Time: 926.01 seconds, Nodes: 39446471
+
+Test 2
+N: 35, Time: 0.25 seconds, Nodes: 24948
+N: 36, Time: 1.71 seconds, Nodes: 156445
+N: 37, Time: 0.69 seconds, Nodes: 57920
+N: 38, Time: 0.64 seconds, Nodes: 54168
+N: 39, Time: 0.19 seconds, Nodes: 15334
+N: 40, Time: 8.24 seconds, Nodes: 605429
+N: 41, Time: 0.04 seconds, Nodes: 3061
+N: 42, Time: 0.56 seconds, Nodes: 40123
+N: 43, Time: 8.79 seconds, Nodes: 548059
+N: 44, Time: 6.49 seconds, Nodes: 412050
+N: 45, Time: 19.81 seconds, Nodes: 1175702
+N: 46, Time: 9.83 seconds, Nodes: 559850
+N: 47, Time: 1.32 seconds, Nodes: 75462
+N: 48, Time: 27.81 seconds, Nodes: 1455356
+N: 49, Time: 49.12 seconds, Nodes: 2455901
+N: 50, Time: 18.37 seconds, Nodes: 900851
+N: 51, Time: 84.69 seconds, Nodes: 3890379
+N: 52, Time: 28.31 seconds, Nodes: 1274613
+N: 53, Time: 668.19 seconds, Nodes: 28501579
+
+Test 3
+N: 35, Time: 0.11 seconds, Nodes: 10505
+N: 36, Time: 3.04 seconds, Nodes: 268733
+N: 37, Time: 0.86 seconds, Nodes: 73660
+N: 38, Time: 0.30 seconds, Nodes: 25748
+N: 39, Time: 0.23 seconds, Nodes: 18134
+N: 40, Time: 8.92 seconds, Nodes: 651119
+N: 41, Time: 0.12 seconds, Nodes: 8844
+N: 42, Time: 0.54 seconds, Nodes: 37825
+N: 43, Time: 8.58 seconds, Nodes: 527302
+N: 44, Time: 35.03 seconds, Nodes: 2088257
+N: 45, Time: 6.78 seconds, Nodes: 404910
+N: 46, Time: 1.74 seconds, Nodes: 102983
+N: 47, Time: 0.69 seconds, Nodes: 39413
+N: 48, Time: 42.81 seconds, Nodes: 2200824
+N: 49, Time: 21.19 seconds, Nodes: 1039176
+N: 50, Time: 27.95 seconds, Nodes: 1376440
+N: 51, Time: 145.52 seconds, Nodes: 6620766
+N: 52, Time: 48.60 seconds, Nodes: 2169209
+N: 53, Time: 291.67 seconds, Nodes: 12439019
+
+Test 4
+N: 35, Time: 0.49 seconds, Nodes: 47895
+N: 36, Time: 1.85 seconds, Nodes: 166196
+N: 37, Time: 0.55 seconds, Nodes: 48234
+N: 38, Time: 0.58 seconds, Nodes: 49841
+N: 39, Time: 0.14 seconds, Nodes: 10576
+N: 40, Time: 3.43 seconds, Nodes: 253064
+N: 41, Time: 0.55 seconds, Nodes: 40681
+N: 42, Time: 0.71 seconds, Nodes: 50202
+N: 43, Time: 12.31 seconds, Nodes: 767726
+N: 44, Time: 10.61 seconds, Nodes: 660050
+N: 45, Time: 11.06 seconds, Nodes: 667206
+N: 46, Time: 4.18 seconds, Nodes: 239405
+N: 47, Time: 5.60 seconds, Nodes: 312953
+N: 48, Time: 43.31 seconds, Nodes: 2252285
+N: 49, Time: 33.02 seconds, Nodes: 1617799
+N: 50, Time: 35.99 seconds, Nodes: 1729351
+N: 51, Time: 59.17 seconds, Nodes: 2754909
+N: 52, Time: 38.90 seconds, Nodes: 1777194
+N: 53, Time: 303.51 seconds, Nodes: 13161993
+
+Test 5
+N: 35, Time: 0.40 seconds, Nodes: 39697
+N: 36, Time: 1.06 seconds, Nodes: 95531
+N: 37, Time: 0.45 seconds, Nodes: 38591
+N: 38, Time: 1.97 seconds, Nodes: 166271
+N: 39, Time: 0.18 seconds, Nodes: 13965
+N: 40, Time: 6.57 seconds, Nodes: 480269
+N: 41, Time: 0.04 seconds, Nodes: 3085
+N: 42, Time: 0.12 seconds, Nodes: 8858
+N: 43, Time: 28.33 seconds, Nodes: 1791150
+N: 44, Time: 11.64 seconds, Nodes: 722207
+N: 45, Time: 8.14 seconds, Nodes: 482716
+N: 46, Time: 2.60 seconds, Nodes: 153943
+N: 47, Time: 0.57 seconds, Nodes: 31816
+N: 48, Time: 27.20 seconds, Nodes: 1420947
+N: 49, Time: 32.10 seconds, Nodes: 1611756
+N: 50, Time: 39.92 seconds, Nodes: 1903070
+N: 51, Time: 144.91 seconds, Nodes: 6545946
+N: 52, Time: 76.64 seconds, Nodes: 3301516
+N: 53, Time: 1114.33 seconds, Nodes: 47354564
+

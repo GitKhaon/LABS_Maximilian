@@ -1,0 +1,119 @@
+Test 32/64
+Test 1
+N: 35, Time: 0.00 seconds, Nodes: 76
+N: 36, Time: 0.29 seconds, Nodes: 25102
+N: 37, Time: 1.67 seconds, Nodes: 161251
+N: 38, Time: 0.00 seconds, Nodes: 259
+N: 39, Time: 3.23 seconds, Nodes: 308636
+N: 40, Time: 2.05 seconds, Nodes: 183573
+N: 41, Time: 56.39 seconds, Nodes: 4141362
+N: 42, Time: 7.52 seconds, Nodes: 513753
+N: 43, Time: 96.38 seconds, Nodes: 6435212
+N: 44, Time: 5.43 seconds, Nodes: 434864
+N: 45, Time: 15.97 seconds, Nodes: 1140288
+N: 46, Time: 4.89 seconds, Nodes: 373431
+N: 47, Time: 12.54 seconds, Nodes: 796326
+N: 48, Time: 0.17 seconds, Nodes: 8135
+N: 49, Time: 95.95 seconds, Nodes: 5378524
+N: 50, Time: 13.96 seconds, Nodes: 839806
+N: 51, Time: 169.66 seconds, Nodes: 8843104
+N: 52, Time: 741.23 seconds, Nodes: 37768361
+N: 53, Time: 86.33 seconds, Nodes: 4304286
+N: 54, Time: 779.94 seconds, Nodes: 39647903
+N: 55, Time: 55.59 seconds, Nodes: 2869947
+
+
+Test 2
+N: 35, Time: 0.25 seconds, Nodes: 31259
+N: 36, Time: 0.00 seconds, Nodes: 69
+N: 37, Time: 2.03 seconds, Nodes: 210589
+N: 38, Time: 0.01 seconds, Nodes: 989
+N: 39, Time: 4.14 seconds, Nodes: 356675
+N: 40, Time: 1.74 seconds, Nodes: 109293
+N: 41, Time: 33.67 seconds, Nodes: 2560571
+N: 42, Time: 8.70 seconds, Nodes: 697571
+N: 43, Time: 115.98 seconds, Nodes: 7692049
+N: 44, Time: 8.22 seconds, Nodes: 627374
+N: 45, Time: 15.83 seconds, Nodes: 1074889
+N: 46, Time: 5.46 seconds, Nodes: 375478
+N: 47, Time: 0.01 seconds, Nodes: 832
+N: 48, Time: 0.10 seconds, Nodes: 4879
+N: 49, Time: 74.94 seconds, Nodes: 4143520
+N: 50, Time: 18.01 seconds, Nodes: 1125104
+N: 51, Time: 343.65 seconds, Nodes: 18039051
+N: 52, Time: 367.96 seconds, Nodes: 18424213
+N: 53, Time: 105.10 seconds, Nodes: 5423664
+N: 54, Time: 5262.76 seconds, Nodes: 259219605
+N: 55, Time: 87.54 seconds, Nodes: 4343381
+
+
+Test 3
+N: 35, Time: 0.49 seconds, Nodes: 57884
+N: 36, Time: 0.33 seconds, Nodes: 25156
+N: 37, Time: 1.66 seconds, Nodes: 169562
+N: 38, Time: 0.01 seconds, Nodes: 540
+N: 39, Time: 4.10 seconds, Nodes: 405086
+N: 40, Time: 2.07 seconds, Nodes: 161199
+N: 41, Time: 44.28 seconds, Nodes: 3324899
+N: 42, Time: 9.40 seconds, Nodes: 819313
+N: 43, Time: 100.97 seconds, Nodes: 6845943
+N: 44, Time: 6.14 seconds, Nodes: 493846
+N: 45, Time: 14.09 seconds, Nodes: 1056627
+N: 46, Time: 6.25 seconds, Nodes: 453925
+N: 47, Time: 11.35 seconds, Nodes: 768676
+N: 48, Time: 0.06 seconds, Nodes: 4497
+N: 49, Time: 97.67 seconds, Nodes: 5746773
+N: 50, Time: 14.02 seconds, Nodes: 893980
+N: 51, Time: 127.73 seconds, Nodes: 6918468
+N: 52, Time: 166.27 seconds, Nodes: 8424027
+N: 53, Time: 166.95 seconds, Nodes: 8550265
+N: 54, Time: 3062.57 seconds, Nodes: 148636236
+N: 55, Time: 84.65 seconds, Nodes: 4046807
+
+
+Test 4
+N: 35, Time: 0.32 seconds, Nodes: 40969
+N: 36, Time: 0.32 seconds, Nodes: 25149
+N: 37, Time: 1.35 seconds, Nodes: 119160
+N: 38, Time: 0.01 seconds, Nodes: 1053
+N: 39, Time: 4.25 seconds, Nodes: 390615
+N: 40, Time: 0.00 seconds, Nodes: 309
+N: 41, Time: 40.59 seconds, Nodes: 3149715
+N: 42, Time: 6.33 seconds, Nodes: 501901
+N: 43, Time: 87.65 seconds, Nodes: 6042072
+N: 44, Time: 6.91 seconds, Nodes: 496234
+N: 45, Time: 18.61 seconds, Nodes: 1344703
+N: 46, Time: 5.05 seconds, Nodes: 373892
+N: 47, Time: 12.83 seconds, Nodes: 872642
+N: 48, Time: 0.00 seconds, Nodes: 129
+N: 49, Time: 60.05 seconds, Nodes: 3600686
+N: 50, Time: 13.98 seconds, Nodes: 896218
+N: 51, Time: 178.81 seconds, Nodes: 9370709
+N: 52, Time: 1015.19 seconds, Nodes: 49300828
+N: 53, Time: 133.10 seconds, Nodes: 6742427
+N: 54, Time: 1644.54 seconds, Nodes: 79184301
+N: 55, Time: 53.19 seconds, Nodes: 2780950
+
+
+Test 5
+N: 35, Time: 0.36 seconds, Nodes: 45162
+N: 36, Time: 0.31 seconds, Nodes: 24777
+N: 37, Time: 1.98 seconds, Nodes: 139843
+N: 38, Time: 0.01 seconds, Nodes: 543
+N: 39, Time: 4.81 seconds, Nodes: 347403
+N: 40, Time: 1.49 seconds, Nodes: 133592
+N: 41, Time: 33.36 seconds, Nodes: 2474215
+N: 42, Time: 7.03 seconds, Nodes: 512364
+N: 43, Time: 107.72 seconds, Nodes: 6949389
+N: 44, Time: 6.56 seconds, Nodes: 515110
+N: 45, Time: 17.72 seconds, Nodes: 1344783
+N: 46, Time: 5.97 seconds, Nodes: 374261
+N: 47, Time: 9.07 seconds, Nodes: 515557
+N: 48, Time: 0.11 seconds, Nodes: 8946
+N: 49, Time: 93.97 seconds, Nodes: 5254095
+N: 50, Time: 13.43 seconds, Nodes: 825328
+N: 51, Time: 371.09 seconds, Nodes: 19396726
+N: 52, Time: 1714.72 seconds, Nodes: 89866898
+N: 53, Time: 135.51 seconds, Nodes: 6780504
+N: 54, Time: 2255.77 seconds, Nodes: 106905148
+N: 55, Time: 82.97 seconds, Nodes: 4288613
